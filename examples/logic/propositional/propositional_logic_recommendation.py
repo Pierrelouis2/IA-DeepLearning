@@ -1,4 +1,4 @@
-from propositional_logic import *
+from fr.TP1.propositional_logic import *
 
 # Définir les propositions
 A = Proposition("L'utilisateur aime l'image actuelle")
